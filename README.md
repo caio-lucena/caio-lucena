@@ -6,4 +6,4 @@
 - I’m interested in learn and grow in order to became a developer some day.
 - The first programming language I learned was Java.
 - BTW, I got a internship opportunity at [Sinqia](https://sinqia.com.br/) in February 2023 and I'm loving to work with Java, Spring Boot, MSSQL, Pentaho and others tools.
-- Update: I got a promotion ! I'm a software engineer right now
+- Update: I got a promotion ! I'm a software engineer right now (August 2024)
